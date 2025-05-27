@@ -1,0 +1,23 @@
+class Config:
+    LYZR_API_KEY: str = "sk-default-OxZ6tvVu12kvRx7fPoYJea7zuw4SHIDE"
+    LYZR_API_URL: str = "https://agent-prod.studio.lyzr.ai/v3/inference/chat/"
+
+    USER_ID: str = "paushigaa.s@goml.io"
+
+    LEX_BRIEF_AGENT_ID: str = "683549ee4e5808b828c8780f"
+    LEX_BRIEF_SESSION_ID: str = "683549ee4e5808b828c8780f-q1qnx6j8ukp"
+
+    LAW_LUMEN_AGENT_ID: str = "68354c4c4e5808b828c87840"
+    LAW_LUMEN_SESSION_ID: str = "68354c4c4e5808b828c87840-oyu1vp4ncwh"
+
+    DOC_SORT_AGENT_ID: str = "68354d674e5808b828c87848"
+    DOC_SORT_SESSION_ID: str = "68354d674e5808b828c87848-3u4m99uugsm"
+
+    PRECENDENT_PRO_AGENT_ID: str = "68354eb54e5808b828c8785e"
+    PRECENDENT_PRO_SESSION_ID: str = "68354eb54e5808b828c8785e-atjdnt730g"
+
+    JUSTICHAT_AGENT_ID: str = "68355cc1d61c463d95d419b3"
+    JUSTICHAT_SESSION_ID: str = "68355cc1d61c463d95d419b3-cipe023z6e"
+
+    DOC_FORGE_AGENT_ID: str = "68355e305a5de42935adbed6"
+    DOC_FORGE_SESSION_ID: str = "68355e305a5de42935adbed6-op9liqsk6l"
