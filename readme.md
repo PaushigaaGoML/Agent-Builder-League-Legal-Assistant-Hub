@@ -83,7 +83,6 @@ Update these files with your credentials as needed.
 ## License
 
 See individual font licenses in [`assets`](assets).  
-Project code: [Add your license here].
 
 ---
 
