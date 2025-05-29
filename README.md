@@ -1,7 +1,3 @@
-# Welcome to your Lovable project
-
-## Project info
-
 # Legal Assistant Hub
 
 A suite of AI-powered legal tools for document generation, classification, summarization, and legal Q&A, leveraging Lyzr AI agents.
@@ -14,8 +10,6 @@ A suite of AI-powered legal tools for document generation, classification, summa
 - **LawLumen**: Explain legal terms and text.
 - **LexBrief**: Summarize long case files.
 - **PrecedentPro**: Retrieve legal precedents (see config for agent IDs).
-
-## Project Structure
 
 ## Project Structure
 
