@@ -1,3 +1,7 @@
 PyPDF2
 fpdf
 streamlit
+python-multipart
+fastapi
+uvicorn
+pydantic
